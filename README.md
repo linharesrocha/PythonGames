@@ -16,7 +16,7 @@
 
 * _[Snake](https://github.com/linharesrocha/PythonGames/tree/master/Snake)_
 
-* _Connect Four_
+* _[Connect Four](https://github.com/linharesrocha/PythonGames/tree/master/ConnectFour)_
 
 * _Tetris_
 
@@ -37,4 +37,10 @@
 # 								Snake :snake:
 
 ![](https://github.com/linharesrocha/PythonGames/blob/master/Snake/snake_image.png)
+
+
+
+# ConnectFour :four:
+
+![](https://github.com/linharesrocha/PythonGames/blob/master/ConnectFour/connectfour_image.png)
 
