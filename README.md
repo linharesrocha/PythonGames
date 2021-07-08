@@ -1,6 +1,6 @@
 # 					Python Games :video_game:
 
-### 		Curso administrado pela organização freeCodeCamp.org [LINK](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=16224s)
+### 		Curso administrado pela organização [freeCodeCamp.org](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=16224s)
 
 ![](https://github.com/linharesrocha/PythonGames/blob/master/freecodecamp.png)
 
