@@ -1,13 +1,5 @@
 # 					Python Games :video_game:
 
-### 		Curso administrado pela organização [freeCodeCamp.org](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=16224s)
-
-![](https://github.com/linharesrocha/PythonGames/blob/master/freecodecamp.png)
-
-
-
-
-
 
 
 ## 									**Lista de Jogos**
@@ -18,19 +10,14 @@
 
 * _[Connect Four](https://github.com/linharesrocha/PythonGames/tree/master/ConnectFour)_
 
-* _Tetris_
-
-* _Online Multiplayer Game_
+* _[Turtle Racing](https://github.com/linharesrocha/PythonGames/tree/master/Turtle Racing)_
 
   
-
 
 
 # 								Pong :ping_pong:
 
 ![](https://github.com/linharesrocha/PythonGames/blob/master/Ping-Pong/pong_image.png)
-
-
 
 
 
@@ -43,4 +30,10 @@
 # ConnectFour :four:
 
 ![](https://github.com/linharesrocha/PythonGames/blob/master/ConnectFour/connectfour_image.png)
+
+
+
+# Turtle Racing :turtle:
+
+![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle Racing/turtleracing_image.png)
 
