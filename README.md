@@ -17,23 +17,23 @@
 
 # 								Pong :ping_pong:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/Ping-Pong/pong_image.png)
+![](https://github.com/linharesrocha/PythonGames/blob/master/Ping-Pong/pingpong.gif)
 
 
 
 # 								Snake :snake:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/Snake/snake_image.png)
+![](https://github.com/linharesrocha/PythonGames/blob/master/Snake/snake.gif)
 
 
 
 # ConnectFour :four:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/ConnectFour/connectfour_image.png)
+![](https://github.com/linharesrocha/PythonGames/blob/master/ConnectFour/connectfour.gif)
 
 
 
 # Turtle Racing :turtle:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle%20Racing/turtleracing_image.png)
+![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle%20Racing/turtlle.gif)
 
