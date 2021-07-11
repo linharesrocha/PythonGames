@@ -10,7 +10,7 @@
 
 * _[Connect Four](https://github.com/linharesrocha/PythonGames/tree/master/ConnectFour)_
 
-* _[Turtle Racing](https://github.com/linharesrocha/PythonGames/tree/master/Turtle Racing)_
+* _[Turtle Racing](https://github.com/linharesrocha/PythonGames/tree/master/Turtle%20Racing)_
 
   
 
@@ -35,5 +35,5 @@
 
 # Turtle Racing :turtle:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle Racing/turtleracing_image.png)
+![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle%20Racing/turtleracing_image.png)
 
