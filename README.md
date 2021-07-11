@@ -35,5 +35,5 @@
 
 # Turtle Racing :turtle:
 
-![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle%20Racing/turtlle.gif)
+![](https://github.com/linharesrocha/PythonGames/blob/master/Turtle%20Racing/turtle.gif)
 
